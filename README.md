@@ -122,7 +122,7 @@ AI-Resume-Analyzer/
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Developed by
 
 ### Siddesh Rizwani
 
