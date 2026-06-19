@@ -34,7 +34,7 @@ An AI-powered resume analysis platform that helps users evaluate resumes, improv
 - Protected user workflows
 - Safe data handling and storage
 
-### ⚡ Development & Architecture
+### ⚡ Architecture
 - Scalable and maintainable code architecture
 - Reusable modular components
 - Optimized API handling
