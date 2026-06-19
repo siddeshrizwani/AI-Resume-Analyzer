@@ -112,14 +112,6 @@ AI-Resume-Analyzer/
 
 ---
 
-# 🎯 Future Improvements
-
-- 📊 Advanced ATS Scoring
-- 📑 Resume Templates
-- 🤖 AI Mock Interview Integration
-- 🌐 Multi-language Resume Support
-- 📈 Resume Performance Analytics
-
 ---
 
 # 👨‍💻 Developed by
